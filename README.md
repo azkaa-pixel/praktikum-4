@@ -126,7 +126,7 @@ hasil yang di tampilkan:
 List gabungan A dan B: [10, 20, 30, 200, 300, 10, 20, 'Hello', 60, 70, 80]
 ```
 ### - hasil
-![foto]()
+![foto](https://github.com/azkaa-pixel/praktikum-4/blob/6fb0b79cff5cc4efc10afcc033cad813705af152/lat%20praktikum%204%20.jpg)
 
 ## praktikum 4
 
@@ -243,4 +243,4 @@ Nilai UAS: 90
 Jika pengguna memilih 't', program akan berhenti.
 
 ### - hasil
-![foto]()
+![foto](https://github.com/azkaa-pixel/praktikum-4/blob/6fb0b79cff5cc4efc10afcc033cad813705af152/tugas%20praktikum%204.jpg)
