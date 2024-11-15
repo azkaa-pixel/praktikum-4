@@ -146,15 +146,15 @@ def tambah_data():
 ```
 Fungsi ini digunakan untuk meminta input data mahasiswa. Program akan meminta user untuk memasukkan:
 
-~Nama (tipe data string)
+~ Nama (tipe data string)
 
-~NIM (tipe data integer)
+~ NIM (tipe data integer)
 
-~Nilai Tugas (tipe data integer)
+~ Nilai Tugas (tipe data integer)
 
-~Nilai UTS (tipe data integer)
+~ Nilai UTS (tipe data integer)
 
-~Nilai UAS (tipe data integer)
+~ Nilai UAS (tipe data integer)
 
 Data yang dimasukkan kemudian akan dimasukkan ke dalam dictionary (```data```) dengan key-value pasangan seperti ```Nama: nama```, ```NIM: nim```, dll.
 Fungsi ini akan mengembalikan dictionary tersebut sebagai output.
@@ -210,23 +210,23 @@ Di bagian ini, program akan berjalan dalam loop yang memungkinkan pengguna untuk
 
 1. data_list = []: Membuat list kosong yang akan menampung data mahasiswa.
 
-2.while True: Memulai loop yang akan terus berjalan hingga pengguna memilih untuk keluar.
+2. while True: Memulai loop yang akan terus berjalan hingga pengguna memilih untuk keluar.
 
-3.Tambah data(y/t)?: Program meminta input dari pengguna untuk menentukan apakah mereka ingin menambah data mahasiswa lagi (```y``` untuk ya, ```t``` untuk tidak).
+3. Tambah data(y/t)?: Program meminta input dari pengguna untuk menentukan apakah mereka ingin menambah data mahasiswa lagi (```y``` untuk ya, ```t``` untuk tidak).
 
-4.Jika pengguna memilih 'y', program akan memanggil fungsi ```tambah_data()```, yang meminta input data mahasiswa dan menambahkannya ke dalam ```data_list```. Setelah itu, fungsi ```tampilkan_data(data_list)``` akan dipanggil untuk menampilkan semua data yang sudah dimasukkan.
+4. Jika pengguna memilih 'y', program akan memanggil fungsi ```tambah_data()```, yang meminta input data mahasiswa dan menambahkannya ke dalam ```data_list```. Setelah itu, fungsi ```tampilkan_data(data_list)``` akan dipanggil untuk menampilkan semua data yang sudah dimasukkan.
 
 5.Jika pengguna memilih 't', program akan keluar dari loop dan berhenti.
 
 6.Jika pengguna memasukkan pilihan selain 'y' atau 't', program akan menampilkan pesan "Pilihan tidak valid." dan meminta input lagi.
 #### alur program
-1.Program dimulai dan menampilkan pilihan untuk menambah data.
+1. Program dimulai dan menampilkan pilihan untuk menambah data.
 
-2.Jika pengguna memilih untuk menambah data, maka fungsi tambah_data() dipanggil untuk meminta input data mahasiswa dan menyimpannya dalam data_list.
+2. Jika pengguna memilih untuk menambah data, maka fungsi tambah_data() dipanggil untuk meminta input data mahasiswa dan menyimpannya dalam data_list.
 
-3.Program kemudian menampilkan semua data mahasiswa yang sudah dimasukkan beserta nilai akhir setiap mahasiswa.
+3. Program kemudian menampilkan semua data mahasiswa yang sudah dimasukkan beserta nilai akhir setiap mahasiswa.
 
-4.Program akan terus meminta input untuk menambah data sampai pengguna memilih untuk berhenti dengan memasukkan 't'.
+4. Program akan terus meminta input untuk menambah data sampai pengguna memilih untuk berhenti dengan memasukkan 't'.
 #### contoh penggunaan 
 ``` phython
 -- Tampilan Program --
