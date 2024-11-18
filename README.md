@@ -6,8 +6,7 @@ Kelas:TI.24.A5
 NIM: 312410521
 
 ## latihan  
-### - flowchart
-![foto]()
+
 ### - code program
 ```phython
 list_A = [10, 20, 30, 40, 50]
