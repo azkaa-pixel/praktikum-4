@@ -130,7 +130,7 @@ List gabungan A dan B: [10, 20, 30, 200, 300, 10, 20, 'Hello', 60, 70, 80]
 ## praktikum 4
 
 ### - flowchart
-![foto]()
+![foto](https://github.com/azkaa-pixel/praktikum-4/blob/be0d4e9b32a6c73ca8703de02034ac54c359730e/praktikum%204.png)
 ### - code program
 #### fungsi ```tambah_data```
 ```phython
